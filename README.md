@@ -1,4 +1,5 @@
 ### Hi there 👋
+This is my student github with some lab works.
 
 <!--
 **khaldun-askara/khaldun-askara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
